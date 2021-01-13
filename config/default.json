@@ -1,0 +1,3 @@
+{
+    "DATABASE_URL" : "mongodb+srv://ezzine:smichi@cluster0.lutef.mongodb.net/mdbtest?retryWrites=true&w=majority"
+}
