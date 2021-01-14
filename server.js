@@ -1,7 +1,7 @@
 const express = require('express')
-// export DB
+// import DB
 const connectDB = require('./config/initDB')
-// export route
+// import route
 const routeUser = require('./routes/user')
 
 // init express

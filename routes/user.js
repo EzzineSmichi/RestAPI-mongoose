@@ -1,4 +1,3 @@
-const { findByIdAndUpdate } = require('../Models/User')
 const User = require('../Models/User')
 
 const router = require('express').Router()
